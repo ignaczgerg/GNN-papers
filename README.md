@@ -1,8 +1,9 @@
 # Must-read papers on GNN
 GNN: graph neural network
 
-Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
+The original collection can be found here: https://github.com/thunlp/GNNPapers. Original contributors: Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
+This repository is my personal selection with checkboxes to track progress.
 ## [Content](#content)
 
 <table>
