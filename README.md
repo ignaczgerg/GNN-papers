@@ -61,7 +61,7 @@ This repository is my personal selection with checkboxes to track progress.
 </table>
 
 ## [Survey papers](#content)
-1. - [ ] **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
+1. - [x] **Introduction to Graph Neural Networks.** Synthesis Lectures on Artificial Intelligence and Machine Learning, Morgan & Claypool Publishers, 2020. [book](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
 
     *Zhiyuan Liu, Jie Zhou.* 
 
